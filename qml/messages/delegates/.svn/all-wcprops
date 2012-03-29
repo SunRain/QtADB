@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates
+END
+SendSmsButton.qml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/SendSmsButton.qml
+END
+Button.qml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/Button.qml
+END
+SendMessage.qml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/SendMessage.qml
+END
+MessageDelegate.qml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/MessageDelegate.qml
+END
+ThreadContextMenu.qml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/ThreadContextMenu.qml
+END
+ThreadDelegate.qml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/ThreadDelegate.qml
+END
+ScrollBar.qml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/ScrollBar.qml
+END
+ContactDelegate.qml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/qtadb/code/!svn/ver/1/trunk/qml/messages/delegates/ContactDelegate.qml
+END

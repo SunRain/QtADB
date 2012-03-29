@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/qtadb/code/!svn/ver/1/trunk/classes/models
+END
+apptablemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/apptablemodel.h
+END
+backuptablemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/backuptablemodel.cpp
+END
+logcatmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/logcatmodel.h
+END
+contactmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/contactmodel.h
+END
+messagethreadmodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/messagethreadmodel.h
+END
+backuptablemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/backuptablemodel.h
+END
+messagemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/messagemodel.cpp
+END
+filetablemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/filetablemodel.cpp
+END
+apptablemodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/apptablemodel.cpp
+END
+logcatmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/logcatmodel.cpp
+END
+messagemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/messagemodel.h
+END
+contactmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/contactmodel.cpp
+END
+filetablemodel.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/filetablemodel.h
+END
+messagethreadmodel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/qtadb/code/!svn/ver/1/trunk/classes/models/messagethreadmodel.cpp
+END

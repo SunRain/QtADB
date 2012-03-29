@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/p/qtadb/code/!svn/ver/2/trunk
+END
+ikonka.rc
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/p/qtadb/code/!svn/ver/1/trunk/ikonka.rc
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/p/qtadb/code/!svn/ver/2/trunk/main.cpp
+END
+QtADB.pro.user
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/qtadb/code/!svn/ver/1/trunk/QtADB.pro.user
+END
+QtADB.pro
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/p/qtadb/code/!svn/ver/1/trunk/QtADB.pro
+END
+zasoby.qrc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/qtadb/code/!svn/ver/1/trunk/zasoby.qrc
+END
